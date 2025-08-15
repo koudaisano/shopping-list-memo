@@ -1,2 +1,5 @@
-# shopping-list-memo
+# 買い物メモアプリ説明書
 高齢者でも出先で使用できる買い物メモアプリです。
+
+画面設計書（設計中）
+https://www.figma.com/board/GkwFPDn1GqFY2dTFYu55YT/%E4%BD%90%E9%87%8E%EF%BC%88%E8%B2%B7%E3%81%84%E7%89%A9%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A1%E3%83%A2%E7%94%BB%E9%9D%A2%E8%A8%AD%E8%A8%88%EF%BC%89?node-id=0-1&t=9rF3fALCwfuGXFs0-1
